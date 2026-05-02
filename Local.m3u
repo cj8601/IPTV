@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/cctv1.png" group-title="央视频道",CCTV1
-https://cdn13.178.indevs.in/163189/bea1d91d91364062
+http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
 http://69.30.245.50/live/cctv2.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV3
@@ -30,6 +30,8 @@ http://74.91.26.218:82/live/cctv13hd.m3u8
 http://69.30.246.194/live/cctv13.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV14
 http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV4k 超高清" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4k.png" group-title="央视频道",CCTV4k 超高清
+http://198.204.228.26/live/cctv4k.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="央视频道",CGTN
 http://113.195.172.192:808/hls/114/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
