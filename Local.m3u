@@ -1,6 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/cctv1.png" group-title="央视频道",CCTV1
 http://219.147.245.238:25480/newlive/live/hls/1/live.m3u8
+http://192.151.150.154/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
 http://219.147.245.238:25480/newlive/live/hls/2/live.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV3
@@ -42,14 +43,13 @@ http://183.250.156.180:9999/newlive/live/hls/18/live.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
-http://rihou.cc:555/tv/[Pd]凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+https://cdn.qd.je/163189/fhzw
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
-http://rihou.cc:555/tv/[Pd]凤凰资讯
+https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
 http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
-http://rihou.cc:555/tv/[Pd]凤凰香港
+https://cdn6.cc.cd/163189/fhhk
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cj8601/IPTV/main/HBO.png" group-title="电影频道", HBO
 http://148.113.160.49:14187
