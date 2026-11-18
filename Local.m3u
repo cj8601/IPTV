@@ -47,7 +47,7 @@ http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.35:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
 http://jyb7928.host:8066/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cj8601/IPTV/main/HBO.png" group-title="电影频道", HBO
 http://148.113.160.49:14187
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+"  group-title="电影频道",HBO+
